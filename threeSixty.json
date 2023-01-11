@@ -1,0 +1,72 @@
+{
+  "version": "3.71.29339.0",
+  "course_id": "6kLRBl7v2YA",
+  "title": "Simulation extrait",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Cabinet Icy & Tia"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6MzaHm9oeOq",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5fWyqUlOTw7",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5d4dBHirO4S",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5fGvToXmBGb",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6lHRZcZerZJ",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5yyMsz06aqO",
+      "title": "Les heures supplémentaires se déclenchent à partir de \n35 heures hebdomadaires ou 1 607 heures ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5fcaGkMCV91",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6En8qdnkFY6",
+      "title": "Saisie de texte",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5hUR1DbhSX4",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6JdtyQrFxti",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.10"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
